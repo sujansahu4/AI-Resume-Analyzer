@@ -32,6 +32,9 @@ An AI-powered resume analysis application built using Python, Streamlit, and Gro
 4. Resume and job description are sent to the Groq LLM.
 5. The AI returns structured analysis.
 6. Streamlit displays the ATS score and recommendations.
+## Live Demo
+
+[Open AI Resume Analyzer](https://ai-resume-analyzer-guthvumctneqfcok2zsgjc.streamlit.app/)
 
 ## Installation
 
